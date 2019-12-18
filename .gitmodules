@@ -1,0 +1,3 @@
+[submodule "3Dpredictor"]
+	path = 3Dpredictor
+	url = https://github.com/taskina-alena/3Dpredictor.git
